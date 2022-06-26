@@ -25,3 +25,4 @@
     "repo": "repoName"
 }              as the request body in json
 
+### i have performed request using postman application.
