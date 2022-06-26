@@ -1,5 +1,7 @@
 # instructions to run server
     run a script "npm run dev" from parent folder.
+    
+## put you personal access token value in a file dev.env in config folder
 
 ## url 
 ### "localhost:3000/newRepo"  to create a new repository   
